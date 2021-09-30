@@ -1,7 +1,7 @@
 # 使用腾讯云函数实现报表自动提交
 ## Version 2.0
 支持自动登录
-
+https://github.com/windiboy/AutoReport.git
 ---
 ## 操作步骤
 ### 获取需要提交的信息
